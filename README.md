@@ -36,5 +36,5 @@ To get a local copy up and running follow these simple example steps.
 
 ## Acknowledgments
 
-- Thanks to Youtube.
+- Thanks to freeCodeCamp youtube channel.
 
